@@ -1,9 +1,9 @@
 # Cory Watilo
 _Sounds like WADDLE-low_
 
-<img src="https://user-images.githubusercontent.com/154479/147385734-18fa43b4-0534-4922-b1bc-b3f43e184db4.jpg" alt="Cory, Tara & Reverie" style="float: right; width: 300px;" />
-
 I design interfaces and user experiences for web software. My wife and I live in an RV and travel fulltime. You can follow our adventures on Instagram at [@summerwithyouuu](https://www.instagram.com/summerwithyouuu/).
+
+<img src="https://user-images.githubusercontent.com/154479/147385734-18fa43b4-0534-4922-b1bc-b3f43e184db4.jpg" alt="Cory, Tara & Reverie" style="float: right; width: 300px;" />
 
 ## Currently...
 
