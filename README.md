@@ -17,12 +17,12 @@ When I have time, I'm also building [RV Envy](https://rvenvy.co). I also manage 
 - First designer at [Heap](https://heap.io)
 - Co-founder at Preact (acquired by Spotify in 2016)
 
-In the past, I've done quite a bit of consulting in the automotive space for companies like Kelley Blue Book (where I was fortunate enough to design the [KBB Price Advisor](https://watilo.foliohd.com/kelley-blue-bookrice Advisor) and a bunch of stuff at Carvana. I also designed and built most of themes available for the blogging platform Posterous. (Posterous was acquired by Twitter in 2012 and Posthaven was birthed out of it.)
+In the past, I've done quite a bit of consulting in the automotive space for companies like Kelley Blue Book (where I was fortunate enough to design the [KBB Price Advisor](https://watilo.foliohd.com/kelley-blue-book)) and a bunch of stuff at Carvana. I also designed and built most of themes available for the blogging platform Posterous. (Posterous was acquired by Twitter in 2012 and Posthaven was birthed out of it.)
 
 ## Fun facts
 
 - I always wanted to be an architect (until I discovered it would take 8 years of school), so now I'm an information architect instead
-- My [truck](https://www.instagram.com/p/CDT6xezFsoF) is bigger than your truck
+- [My truck](https://www.instagram.com/p/CDT6xezFsoF) is bigger than your truck
 - I scored the license plate "[HASHTAG](https://www.instagram.com/p/5oGdUpk4fK/)" in California. When I went to pick it up, the DMV lady told me I would probably get pulled over because the cops would think it's a drug reference.
 
 ## Social
