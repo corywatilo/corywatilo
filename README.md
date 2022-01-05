@@ -17,7 +17,7 @@ When I have time, I'm also building [RV Envy](https://rvenvy.co). I also manage 
 - First designer at [Heap](https://heap.io)
 - Co-founder at Preact (acquired by Spotify in 2016)
 
-In the past, I've done quite a bit of consulting in the automotive space for companies like Kelley Blue Book (where I was fortunate enough to design the [KBhttps://watilo.foliohd.com/kelley-blue-bookrice Advisor](url) and Carvana. I also designed and built most of themes available for the blogging platform Posterous. (Posterous was acquired by Twitter in 2012 and Posthaven was birthed out of it.)
+In the past, I've done quite a bit of consulting in the automotive space for companies like Kelley Blue Book (where I was fortunate enough to design the [KBB Price Advisor](https://watilo.foliohd.com/kelley-blue-bookrice Advisor) and a bunch of stuff at Carvana. I also designed and built most of themes available for the blogging platform Posterous. (Posterous was acquired by Twitter in 2012 and Posthaven was birthed out of it.)
 
 ## Fun facts
 
