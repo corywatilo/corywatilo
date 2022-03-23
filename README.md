@@ -1,7 +1,7 @@
 # Cory Watilo
 _Sounds like WADDLE-low_
 
-I design interfaces and user experiences for web software. My wife and I lived in an RV and traveled fulltime until we recently settled down in Tampa, Florida. You can follow our adventures on Instagram at [@summerwithyouuu](https://www.instagram.com/summerwithyouuu/).
+I design interfaces and user experiences for web software. My wife and I lived in an RV and traveled fulltime until we recently settled down in Tampa, Florida. [You can find me on Instagram.](https://instagram.com/watilo)
 
 <img src="https://user-images.githubusercontent.com/154479/147385734-18fa43b4-0534-4922-b1bc-b3f43e184db4.jpg" alt="Cory, Tara & Reverie" style="float: right; width: 300px;" />
 
@@ -25,6 +25,9 @@ In the past, I've done quite a bit of consulting in the automotive space for com
 - [My truck](https://www.instagram.com/p/CDT6xezFsoF) is bigger than your truck
 - I scored the license plate "[HASHTAG](https://www.instagram.com/p/5oGdUpk4fK/)" in California. When I went to pick it up, the DMV lady told me I would probably get pulled over because the cops would think it's a drug reference.
 
-## Social
+## Find me on...
 
-You should follow me on [Twitter](https://twitter.com/watilo) and [Instagram](https://instagram.com/watilo)!
+- [Instagram](https://instagram.com/watilo) where I post memories I like to look back on
+- [Twitter](https://twitter.com/watilo) where I live-tweet my daily frustrations
+- [Blog](https://watilo.com) where I rant about things but in longer-form
+- [LinkedIn](https://linkedin.com/in/corywatilo) where I’m far less obnoxious
