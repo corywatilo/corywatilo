@@ -1,7 +1,7 @@
 # Cory Watilo
 _Sounds like WADDLE-low_
 
-I design interfaces and user experiences for web software. My wife and I live in an RV and travel fulltime. You can follow our adventures on Instagram at [@summerwithyouuu](https://www.instagram.com/summerwithyouuu/).
+I design interfaces and user experiences for web software. My wife and I lived in an RV and traveled fulltime until we recently settled down in Tampa, Florida. You can follow our adventures on Instagram at [@summerwithyouuu](https://www.instagram.com/summerwithyouuu/).
 
 <img src="https://user-images.githubusercontent.com/154479/147385734-18fa43b4-0534-4922-b1bc-b3f43e184db4.jpg" alt="Cory, Tara & Reverie" style="float: right; width: 300px;" />
 
@@ -13,7 +13,7 @@ When I have time, I'm also building [RV Envy](https://rvenvy.co). I also manage 
 
 ## Previously...
 
-- Co-founder at [Brightback](https://brightback.com "Link: https://brightback.com")
+- Co-founder at [Brightback](https://brightback.com "Link: https://brightback.com") (acquired by Chargebee in 2020)
 - First designer at [Heap](https://heap.io)
 - Co-founder at Preact (acquired by Spotify in 2016)
 
