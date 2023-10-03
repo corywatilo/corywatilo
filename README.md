@@ -9,7 +9,7 @@ I design interfaces and user experiences for web software. My wife and I lived i
 
 I'm Lead Designer at [PostHog](https://posthog.com "Link: https://posthog.com"), but you could also just call me the PostHog.com webmaster.
 
-When I have time, I'm also building [RV Envy](https://rvenvy.co). I also manage [Posthaven](https://posthaven.com) and [FolioHD](https://foliohd.com).
+When I have time, I'm also building [RV Envy](https://rvenvy.com). I also manage [Posthaven](https://posthaven.com) and [FolioHD](https://foliohd.com).
 
 ## Previously...
 
