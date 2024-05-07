@@ -3,7 +3,8 @@ _Sounds like WADDLE-low_
 
 I design interfaces and user experiences for web software. Usually for startups. [You can find me on Instagram.](https://instagram.com/watilo)
 
-<img src="https://github.com/corywatilo/corywatilo/assets/154479/666d3e0b-c7d1-4569-b0f8-7a95b0358572" alt="Cory, Tara, Reverie, &amp; Oli" style="float: right; width: 600px;" />
+<img src="https://github.com/corywatilo/corywatilo/assets/154479/d2cf35e9-bc07-4201-886d-c86a0998fbda" alt="Cory, Tara, Reverie, &amp; Charlie" style="float: right; width: 600px;" />
+
 
 ## Currently...
 
